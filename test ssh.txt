@@ -1,1 +1,1 @@
-nếu xem dc dòng tn này thì là dùng ssh thành công 
+đọc dc thì đã hoàn thành 
